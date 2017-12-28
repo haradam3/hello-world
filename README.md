@@ -7,8 +7,8 @@ Hello, how are you?
 * one 
 * two
 ## Hello two hash
-1 one
-2 two
-3 three
+1. one
+2. two
+3. three
 
 
